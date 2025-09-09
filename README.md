@@ -1,12 +1,10 @@
 # jhzinho12
 
-## minhas informações
-* name: joão henrique
+## Sobre Mim
 
-* tenho 14 anos
+* Nome: João Henrique
+* Idade: 14 anos
+* Altura: 1,83 m
 
-* estudante da escola maringa do 8 ano
-tambem estudando java escript 
-
-* altura 1.83 
+Sou estudante do 8º ano na Escola Maringá. Atualmente, estou aprendendo JavaScript, buscando desenvolver minhas habilidades em programação e tecnologia.
 
